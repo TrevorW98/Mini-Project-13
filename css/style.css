@@ -1,0 +1,16 @@
+.center{
+    display: flex;
+    justify-content: center;
+}
+.imageW{
+    width: 100%;
+}
+.textColor{
+    color: rgb(238, 113, 30);
+}
+.numberFont{
+    font-size: 30px;
+}
+.bgColor{
+    color: orangered;
+}
